@@ -1,6 +1,6 @@
 # Awesome Markdown
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
-# Table of Contents
+#### _Nếu có bất kì thắc mắc nào, xin hãy gửi về hộp thư vohoangkh4ng@gmail.com._
+# Mục lục
 ## Hồi quy tuyến tính một biến
 <!--
 
@@ -19,6 +19,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Markdown Extra](#markdown-extra)
   * [Markdown Extended (MDE)](#markdown-extended-mde)
 * [Manuscripts](#manuscripts)
+* ## Hồi quy tuyến tính đa biến
 * [CommonMark](#commonmark)
 * [GitHub Flavored Markdown (GFM)](#github-flavored-markdown-gfm)
 * [Vanilla Flavored Markdown (VFMD)](#vanilla-flavored-markdown-vfmd)
