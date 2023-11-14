@@ -13,7 +13,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 
 <!-- !toc (minlevel=2 omit="Table of Contents") -->
 
-* [Markdown](https://vohoangkh4ng.github.io/LN/)
+* [Hồi quy tuyến tính một biến](https://vohoangkh4ng.github.io/LN/)
 * 
 
 <!-- toc! -->
