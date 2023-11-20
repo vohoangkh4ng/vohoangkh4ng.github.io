@@ -14,6 +14,6 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 <!-- !toc (minlevel=2 omit="Table of Contents") -->
 
 * [Hồi quy tuyến tính một biến](https://vohoangkh4ng.github.io/LN/)
-* 
+* [SVD](https://vohoangkh4ng.github.io/LN/)
 
 <!-- toc! -->
